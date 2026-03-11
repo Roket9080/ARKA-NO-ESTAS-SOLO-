@@ -12,3 +12,4 @@ Este repositorio es parte de un laboratorio práctico sobre metodología Kanban 
 - Markdown
 ## SOLUCIONADO
 ## Rodriguez 
+## Yo no lo descargo porque ya lo tengo
