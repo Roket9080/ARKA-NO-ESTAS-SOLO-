@@ -3,7 +3,7 @@ Este repositorio es parte de un laboratorio práctico sobre metodología Kanban 
 
 ## Equipo
 - [Nombre david]felipe
-- [Nombre martinez]
+- [Nombre Juan]
 - [Nombre ]
 
 ## Tecnologías utilizadas
@@ -14,3 +14,4 @@ Este repositorio es parte de un laboratorio práctico sobre metodología Kanban 
 empecemos another
 another another
 another another
+Lo he logradooooo
