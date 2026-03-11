@@ -14,3 +14,4 @@ Este repositorio es parte de un laboratorio práctico sobre metodología Kanban 
 ## Rodriguez 
 ## nkk,
 ## liseth
+## MIGUELO
